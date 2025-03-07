@@ -1,4 +1,4 @@
-# E-Commerce_Supply_Chain_Analysis_Using_Python
+# E-Commerce Supply Chain Analysis Using Python
 
 ✔ Project Objective: The primary objective of this analysis is to visualize product pricing and the corresponding revenue generation, analyze sales distribution by product type, evaluate revenue contributions from various shipping carriers, and assess defect rates during shipping, utilizing Python for comprehensive data analysis.
 
